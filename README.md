@@ -1,10 +1,14 @@
-#My First GitHub Project
+# My First GitHub Project
 This Project was created as part of the Git & GitHub Lab.
-#About
-• Created by: لميس
+
+
+# About
+• Created by: Lamis
 • Course: نظام اصدارات الاكوادالبرمجية
-• Date: 20.10  
-#Purpose
+• Date: 20.10 
+
+
+# Purpose
 To learn how to:
 • Create a GitHub repository  
 • Clone it into VS Code  
