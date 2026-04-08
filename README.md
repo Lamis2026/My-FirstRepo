@@ -1,2 +1,11 @@
-# My-FirstRepo
-This is my first GitHub repository for the lab.
+#My First GitHub Project
+This Project was created as part of the Git & GitHub Lab.
+#About
+• Created by: لميس
+• Course: نظام اصدارات الاكوادالبرمجية
+• Date: 20.10  
+#Purpose
+To learn how to:
+• Create a GitHub repository  
+• Clone it into VS Code  
+• Edit and update a README file
